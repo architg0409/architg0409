@@ -1,5 +1,4 @@
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Archit+Gupta+%F0%9F%91%8B;Data+Engineer+%7C+Snowflake+%7C+sql+%7C+dbt+%7C+Python;Building+resilient+data+pipelines" alt="Typing SVG" /></a>
-### Data Engineer | Snowflake • sql • dbt • Python • Matillion • ServiceNow
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Archit+Gupta+%F0%9F%91%8B;Data+Engineer+at+ServiceNow;Data+Engineer+%7C+Snowflake+%7C+dbt+%7C+Python;Building+resilient+data+pipelines" alt="Typing SVG" /></a>
 
 5+ years architecting resilient data pipelines and ETL frameworks that integrate enterprise data across cloud and workflow ecosystems.
 
@@ -7,6 +6,9 @@
 
 ### 🔭 Currently
 Data Engineer at **ServiceNow** — building Snowflake↔ServiceNow integration frameworks, streaming pipelines (Kafka → Snowpipe Streaming), and data ingestion for AI/ML-driven outreach.
+
+### 💼 Previous Experience
+- **Software Engineer, TEKsystems Global Services** — conducted Snowflake training (Time Travel, UDFs, SPs, Snowpipe); resolved 20+ production issues in Matillion ETL jobs; built schema-aware ETL framework from Salesforce to Snowflake
 
 ### 🎤 Speaking & Community
 - Speaker at **Snowflake Summit 2024** — Snowflake External Access & secure API integration
@@ -25,6 +27,7 @@ Data Engineer at **ServiceNow** — building Snowflake↔ServiceNow integration 
 ### 🛠️ Tech Stack
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![dbt](https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -32,7 +35,7 @@ Data Engineer at **ServiceNow** — building Snowflake↔ServiceNow integration 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-293E40?style=flat-square&logo=servicenow&logoColor=white)
 
-**Also:** SQL, Matillion, Snowpark, Snowpipe, Streamlit, Confluent Kafka, Git, Postman
+**Also:** Matillion, Snowpark, Snowpipe, Streamlit, Confluent Kafka, Git, Postman
 
 ### 📜 Certifications
 - Apache Airflow 3 Fundamentals Certified
@@ -40,4 +43,3 @@ Data Engineer at **ServiceNow** — building Snowflake↔ServiceNow integration 
 ### 📫 Connect
 - 📧 architg0409@gmail.com
 - 💼 LinkedIn: *[Archit Gupta](https://www.linkedin.com/in/archit-gupta-0409/)*
-- 🐙 GitHub: *[Archit Gupta](https://github.com/architg0409)*

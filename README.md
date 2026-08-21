@@ -1,5 +1,5 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Archit+Gupta+%F0%9F%91%8B;Data+Engineer+%7C+Snowflake+%7C+sql+%7C+dbt+%7C+Python;Building+resilient+data+pipelines" alt="Typing SVG" /></a>
-### Data Engineer | Snowflake • dbt • Python • Matillion • ServiceNow
+### Data Engineer | Snowflake • sql • dbt • Python • Matillion • ServiceNow
 
 5+ years architecting resilient data pipelines and ETL frameworks that integrate enterprise data across cloud and workflow ecosystems.
 

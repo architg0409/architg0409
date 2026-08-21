@@ -35,8 +35,6 @@ Data Engineer at **ServiceNow** — building Snowflake↔ServiceNow integration 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-293E40?style=flat-square&logo=servicenow&logoColor=white)
 
-**Also:** Matillion, Snowpark, Snowpipe, Streamlit, Confluent Kafka, Git, Postman
-
 ### 📜 Certifications
 - Apache Airflow 3 Fundamentals Certified
 

@@ -1,4 +1,4 @@
-# Hi, I'm Archit Gupta 👋
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=29B5E8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Archit+Gupta+%F0%9F%91%8B;Data+Engineer+%7C+Snowflake+%7C+dbt+%7C+Python;Building+resilient+data+pipelines" alt="Typing SVG" /></a>
 
 ### Data Engineer | Snowflake • dbt • Python • Matillion • ServiceNow
 

@@ -34,6 +34,7 @@ Data Engineer at **ServiceNow** — building Snowflake↔ServiceNow integration 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/-ServiceNow-293E40?style=flat-square&logo=servicenow&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-4CAF50?style=flat-square&logo=databricks&logoColor=white)
 
 ### 📜 Certifications
 - Apache Airflow 3 Fundamentals Certified
